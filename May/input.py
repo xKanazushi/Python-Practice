@@ -1,0 +1,6 @@
+name = input("กรอกชื่อ: ")
+age = input("กรอกอายุ: ")
+height = input("กรอกส่วนสูง: ")
+print(f"ชื่อ: {name}")
+print(f"อายุ: {age} ปี")
+print(f"ส่วนสูง: {height} cm")
